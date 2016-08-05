@@ -1,0 +1,34 @@
+_repo: Five-Little-Peppers-and-their-Friends_6418
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sidney, Margaret
+    alias: Sydney, Margaret
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '307'
+    url: http://www.gutenberg.org/2009/agents/307
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Sidney
+description: ''
+gutenberg_bookshelf:
+- Children's Book Series
+- Children's Literature
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6418'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Five Little Peppers (Fictitious characters) -- Juvenile fiction'
+- !lcc 'PS'
+- !lcc 'PZ'
+- !lcsh 'Single-parent families -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- GITenberg
+title: Five Little Peppers and their Friends
+url: http://www.gutenberg.org/ebooks/6418
